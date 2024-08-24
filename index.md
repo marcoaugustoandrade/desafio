@@ -1,3 +1,9 @@
+---
+layout: default
+title: Desafio de Programação
+description: Desafio de Programação para participar do FSLab.
+---
+
 # Desafio: Sistema de Gerenciamento de Tarefas
 
 Esse desafio faz parte da 1ª etapa de seleção para participar do FSLab (Laboratório de Fábricas de Software). A 2ª etapa será a realização de uma entrevista, no qual o código implementado aqui será explicado para uma banca.
