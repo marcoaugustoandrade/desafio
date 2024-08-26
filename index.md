@@ -37,6 +37,7 @@ Você foi contratado para criar um pequeno sistema de gerenciamento de tarefas. 
     - 4 para Remover uma tarefa.
     - 5 para Sair do programa.
 
+
 * Execução do programa: utilize um loop para que o programa continue rodando até que o usuário selecione a opção de sair (opção 5).
 
 
