@@ -55,3 +55,4 @@ Você foi contratado para criar um pequeno sistema de gerenciamento de tarefas. 
 * Utilize funções para modularizar o código.
 * A função listarTarefas() deve usar um loop para percorrer o array e exibir as tarefas.
 * Utilize estruturas de controle (como **if** e **switch**) para definir as ações com base na escolha do usuário.
+* Adicionar uma data na tarefa é um adicional interessante.
