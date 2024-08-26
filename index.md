@@ -6,9 +6,13 @@ description: Desafio de Programação para participar do FSLab.
 
 # Desafio: Sistema de Gerenciamento de Tarefas
 
-Esse desafio faz parte da 1ª etapa de seleção para participar do FSLab (Laboratório de Fábricas de Software). A 2ª etapa será a realização de uma entrevista, no qual o código implementado aqui será explicado para uma banca.
+Esse desafio faz parte da 1ª etapa de seleção para participar do FSLab (Laboratório de Fábricas de Software). 
 
-O prazo para entrega do código é 26/08/2024, enviando para o e-mail *fslab.vilhena@ifro.edu.br*. O código pode ser escrito em qualquer linguagem de programação e não deve-se utilizar ChatGPT ou afins.
+A 2ª etapa será a realização de uma entrevista, no qual o código implementado aqui será explicado para uma banca.
+
+O prazo para entrega do código é 02/09/2024, enviando para o e-mail *fslab.vilhena@ifro.edu.br*. 
+
+O código pode ser escrito em qualquer linguagem de programação e não deve-se utilizar ChatGPT ou afins.
 
 
 ## Desafio
